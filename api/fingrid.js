@@ -12,7 +12,7 @@ export default async function handler(req, res) {
   try {
     const response = await fetch(url, {
       headers: {
-        "x-api-key": "5e68ed6e44014128b693bee4ade36e63"
+        "x-api-key": "xxxxxxx"
       }
     });
 
