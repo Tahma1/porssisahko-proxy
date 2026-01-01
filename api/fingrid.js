@@ -12,7 +12,7 @@ export default async function handler(req, res) {
   try {
     const response = await fetch(url, {
       headers: {
-        "x-api-key": "PASTA_TAHAN_OMA_FINGRID_API_KEY"
+        "x-api-key": "8e5ab1e0890d423f88ae8898f603a0d2"
       }
     });
 
